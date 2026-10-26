@@ -7,7 +7,7 @@ All analysis written in pure SQL using MySQL.
 ## Business Questions & Findings
 
 **1. Which city has the most customers?**
-[City name] leads with [X] customers, followed by [city] and [city].
+During my exploration, when using a limit of 1 Portland was the top city with 2 customers. After exploring more the data and using a limit of 5, the following cities had the same amount of customers as Portland: Milwaukee, Minneapolis, New York, and Miami. It might be possible to find more cities with the same amount of customers as Portland but I preferred to stop at 5.
 
 **2. Which employee handled the most orders?**
 [Employee name] handled the most orders ([X] total), making them the 
