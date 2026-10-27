@@ -15,7 +15,7 @@ top performer on the sales team.
 
 **3. What are the top 5 best-selling products by quantity sold?**
 Northwind Traders coffee was the best-selling product with 650 units sold. 
-The rest of the Top 5 is:
+The rest of the Top 5 are:
 1- Northwind Traders beer
 2- Northwind Traders clam chowder
 3- Northwind Traders Green Tea
@@ -26,8 +26,12 @@ Company F and Company H placed the most orders (6), suggesting a strong
 recurring relationship with Northwind Traders.
 
 **5. Who are the top 5 customers by total revenue generated?**
-Company was the highest-spending customer at $[X], nearly 
-[X]x more than the 5th-ranked customer.
+Company BB was the highest-spending customer at $15432.5. 
+The rest of the Top 5 are:
+1- Company G
+2- Company F
+3- Company D
+4- Company H
 
 ## Skills Demonstrated
 - Multi-table JOINs (including 3-table joins)
